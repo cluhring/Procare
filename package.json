@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "cy:open": "npx cypress open"
+    },
+    "devDependencies": {
+        "@cypress/xpath": "^2.0.3"
+    }
+}
